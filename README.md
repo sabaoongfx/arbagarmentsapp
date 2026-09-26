@@ -4,7 +4,7 @@ The ARBA Garments kids' clothing store as an Android app.
 
 ## Download
 
-Go to **[Releases](../../releases/latest)** and download the newest `arbagarments-vX.Y.Z.apk`, then open it on your phone.
+**[Download the latest APK](../../releases/latest/download/arbagarments.apk)**, then open it on your phone. (This link always gives the newest version. Release notes are on the **[Releases](../../releases/latest)** page.)
 
 - Needs **Android 7.0 or newer**.
 - The first time, Android may ask you to allow **"Install unknown apps"** for your browser or file manager. This is normal for apps installed outside the Play Store.
